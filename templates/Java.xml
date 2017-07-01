@@ -1,5 +1,5 @@
 <templateSet group="Java">
-  <template name="testj" value="@Test public void" toReformat="false" toShortenFQNames="true">
+  <template name="testj" value="@Test public void" description="" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="JAVA_CODE" value="true" />
     </context>
