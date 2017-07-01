@@ -1,10 +1,16 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="true" />
+    <state version="4" enabled="false" />
     <globalmarks />
     <filemarks>
-      <file name="C:/git/harry-potter-04/src/test/java/BasketTest.java" timestamp="1498912718981">
-        <mark key="[" line="19" column="0" />
+      <file name="C:/git/harry-potter-04/src/main/java/Basket.java" timestamp="1498912987097">
+        <mark key="[" line="4" column="15" />
+      </file>
+      <file name="C:/git/harry-potter-04/src/test/java/BasketTest.java" timestamp="1498912929475">
+        <mark key="[" line="18" column="1" />
+        <mark key="]" line="18" column="1" />
+        <mark key="^" line="18" column="1" />
+        <mark key="." line="18" column="1" />
       </file>
     </filemarks>
     <jumps />
@@ -19,6 +25,10 @@
       <history-expr />
       <history-input />
     </history>
-    <shortcut-conflicts />
+    <shortcut-conflicts>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed S</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
   </component>
 </application>
